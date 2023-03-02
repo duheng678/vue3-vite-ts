@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'YouSheBiaoTiHei';
+  src: url('./YouSheBiaoTiHei.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TRENDS';
+  src: url('./trends.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PingFangSC-Regular';
+  src: url('./PingFang-SC-Regular.ttf');
+}
+@font-face {
+  font-family: 'PingFangSC-Medium';
+  src: url('./PingFang Medium.ttf');
+}
+
+@font-face {
+  font-family: 'Acens';
+  src: url('./Acens-1.ttf');
+}
+@font-face {
+  font-family: 'DinBold';
+  src: url('./DIN-Bold.otf');
+}
+@font-face {
+  font-family: 'PingFangSC-Semibold';
+  src: url('./PingFangSC-Semibold.ttf');
+}
+@font-face {
+  font-family: 'RuiZiRuiXianNuFangHeiJian';
+  src: url('./RuiZiRuiXianNuFangHeiJian.ttf');
+}
